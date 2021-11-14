@@ -1,0 +1,8 @@
+Cloud services--Nate McMillan--www.moodle.fi--online
+Java programming--Ime Udoka--A505
+XML--Steve Nash--www.teams.com/steve--online
+Web applications--James Borrego--B503
+Basic math--Billy Donovan--A525
+Databases--J. Bickerstaff--https://oamk.zoom.us/bickerstaff--online
+Algebra--Dwane Casey--B513
+Advanced CSS--Rick Carlisle--C500
